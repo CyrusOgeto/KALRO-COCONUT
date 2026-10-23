@@ -143,7 +143,7 @@ export default function HomeScreen() {
         showsVerticalScrollIndicator={false}
       >
         <Text style={styles.greeting}>Welcome!</Text>
-        <Text style={styles.subGreeting}>Cashew Value Chain TIMPs Catalog</Text>
+        <Text style={styles.subGreeting}>Coconut Value Chain TIMPs Catalog</Text>
 
         {/* Search Bar with Brown Icon */}
         <View style={styles.searchWrapper}>
